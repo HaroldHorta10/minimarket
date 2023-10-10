@@ -1,33 +1,29 @@
-# PropShop Ecommerce Website With Django + React
+# Sitio web de comercio electrónico MiniMarket con Django + React
 
 
-This project is from my Django + React collaboration wih Brad Traversy. Full Course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
+# Características
+* Carrito de compras con todas las funciones
+* Reseñas y valoraciones de productos.
+* Carrusel de productos destacados
+* Paginación de productos
+* Función de búsqueda de productos
+  *Perfil de usuario con pedidos
+* Gestión de productos administrativos.
+* Gestión de usuarios administradores
+* Página de detalles del pedido de administrador
+* Marcar pedidos como opción de entrega
+* Proceso de pago (envío, método de pago, etc)
 
 
-# Features
-* Full featured shopping cart
-* Product reviews and ratings
-* Top products carousel
-* Product pagination
-* Product search feature
-* User profile with orders
-* Admin product management
-* Admin user management
-* Admin Order details page
-* Mark orders as delivered option
-* Checkout process (shipping, payment method, etc)
-* PayPal / credit card integration
+# Instrucciones de descarga y configuración
 
-
-# Download & Setup Instructions
-
-* 1 - Clone project: git clone https://github.com/divanov11/proshop_django/
+* 1 - Clonar proyecto: git clone https://github.com/HaroldHorta10/minimarket.git
 * 2 - cd mini-market
-* 3 - Create virtual environment: virtualenv myenv
-* 4 - myenv\scripts\activate
+* 3 - Crear un ambiente virtual: virtualenv myenv
+* 4 - ingresar :  myenv\Scripts\activate
 * 5 - pip install -r requirements.txt
 * 6 - python manage.py runserver
 
-# Install react modules
+# Instalar modulos react
 * 1 - cd frontend
 * 2 - npm install
